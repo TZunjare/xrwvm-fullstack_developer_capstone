@@ -1,4 +1,5 @@
 # Uncomment the imports below before you add the function code
+/*jshint esversion: 8 */
 import requests
 import os
 from dotenv import load_dotenv
